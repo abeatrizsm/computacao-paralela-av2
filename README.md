@@ -1,6 +1,6 @@
 
 # Análise de desempenho de algoritmos de ordenação em ambientes seriais e paralelos
-
+Alunos: Anselmo Teixeira Ferrer Neto - 2410414 e Ana Beatriz Silveira Mendes - 2410411 
 ## Resumo
 
 Este trabalho tem como objetivo analisar o desempenho de quatro algoritmos de ordenação implementados em Java, comparando suas versões seriais e paralelas. Foram utilizados QuickSort, MergeSort, SelectionSort e InsertionSort, com conjuntos de 100, 1.000, 10.000, 100.000 e 1.000.000 de elementos. Os testes foram realizados em duas rodadas: a primeira com até 4 threads e a segunda com até 8 threads. Os tempos foram registrados em arquivos CSV e comparados para identificar diferenças entre os algoritmos, o efeito do tamanho das entradas e as vantagens e limitações do paralelismo. Os resultados mostram que o uso de mais threads pode reduzir o tempo de execução, principalmente com entradas maiores, mas também que o ganho depende do algoritmo e das condições do teste.
