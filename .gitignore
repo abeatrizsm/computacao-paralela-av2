@@ -1,0 +1,6 @@
+out/
+resultados/
+*.class
+resultados-*.csv
+resultados-*-dados.txt
+Relatorio-Computacao-Paralela.pdf

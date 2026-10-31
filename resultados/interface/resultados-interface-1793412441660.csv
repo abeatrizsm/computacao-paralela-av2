@@ -1,0 +1,6 @@
+algoritmo,tamanho,versao,threads,tempo_ms,speedup
+QuickSort,100,serial,,0.547792,1.000000
+QuickSort,1000,serial,,0.335584,1.000000
+QuickSort,10000,serial,,1.036000,1.000000
+QuickSort,100000,serial,,7.085417,1.000000
+QuickSort,1000000,serial,,78.857125,1.000000
